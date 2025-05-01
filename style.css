@@ -208,7 +208,7 @@ body{
   }
 }
 
-@media (min-width: 400px) and (max-width: 608px) {
+@media (min-width: 300px) and (max-width: 608px) {
   .header {
     width: 100%;
     display: flex;
@@ -403,7 +403,7 @@ body{
   }
 }
 
-@media (min-width: 400px) and (max-width: 608px) {
+@media (min-width: 300px) and (max-width: 608px) {
   .email-start {
     margin-top: 30px;
   }
@@ -538,7 +538,7 @@ body{
 }
 
 /* Mobile phones */
-@media (min-width: 400px) and (max-width: 608px) {
+@media (min-width: 300px) and (max-width: 608px) {
   .container {
     flex-direction: column;
     align-items: center;
